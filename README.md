@@ -38,11 +38,11 @@ This repository contains comprehensive training materials for TESDA participants
 3. Complete hands-on labs for practical experience
 4. Use the reference materials for additional learning
 
-### 📞 Support
+<!-- ### 📞 Support
 For questions or clarifications, contact:
 - **Email:** solutions.architect@company.com
 - **Phone:** +63-XXX-XXX-XXXX
-- **LinkedIn:** linkedin.com/in/solutions-architect
+- **LinkedIn:** linkedin.com/in/solutions-architect -->
 
 ---
-**Remember:** Today's foundation in multi-account strategy and IAM will enable TESDA's successful digital transformation.
+<!-- **Remember:** Today's foundation in multi-account strategy and IAM will enable TESDA's successful digital transformation. -->
