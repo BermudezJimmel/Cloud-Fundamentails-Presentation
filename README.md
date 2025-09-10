@@ -1,5 +1,5 @@
 # AWS Cloud Fundamentals + Security Basics for TESDA
-## 3-Hour Intensive Training Program
+<!-- ## 3-Hour Intensive Training Program
 
 ### 🎯 Training Overview
 This repository contains comprehensive training materials for TESDA participants to master AWS account organization and identity management at the cloud practitioner level.
@@ -7,7 +7,7 @@ This repository contains comprehensive training materials for TESDA participants
 **Target Audience:** TESDA Participants (Cloud Practitioner Level)  
 **Duration:** 3 Hours  
 **Focus:** Multi-Account Strategy & Identity Management  
-**Outcome:** TESDA's Secure Architecture Foundation  
+**Outcome:** TESDA's Secure Architecture Foundation   -->
 
 ### 📚 Course Structure
 
