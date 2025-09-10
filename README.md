@@ -1,4 +1,4 @@
-# AWS Cloud Fundamentals for TESDA
+# AWS Cloud Fundamentals + Security Basics for TESDA
 ## 3-Hour Intensive Training Program
 
 ### 🎯 Training Overview
