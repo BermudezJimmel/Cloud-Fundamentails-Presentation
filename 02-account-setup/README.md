@@ -170,7 +170,7 @@ tesda-shared-services
 ## 🏛️ TESDA-Specific Considerations
 
 ### Government Compliance
-- Data residency requirements (keep data in Philippines)
+- Regulatory Requirements
 - Audit trail requirements
 - Access control documentation
 - Regular security assessments
