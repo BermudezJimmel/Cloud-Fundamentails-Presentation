@@ -1,4 +1,4 @@
-# AWS Cloud Fundamentals + Security Basics for TESDA
+# AWS Cloud Fundamentals + Security Basics for TESDAA
 <!-- ## 3-Hour Intensive Training Program
 
 ### 🎯 Training Overview
@@ -47,8 +47,6 @@ For questions or clarifications, contact:
 
 ---
 <!-- **Remember:** Today's foundation in multi-account strategy and IAM will enable TESDA's successful digital transformation. -->
-
-
 
 ### AWS Organizations Tutorial
 [![AWS Organizations Overview](https://img.youtube.com/vi/fxo67UeeN1A/maxresdefault.jpg)](https://www.youtube.com/watch?v=fxo67UeeN1A)
