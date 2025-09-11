@@ -14,6 +14,8 @@ An AWS account is like your personal workspace in the cloud. Each account has it
 
 ## 📋 Step-by-Step Account Creation Process
 
+**Watch:** [How do I create and activate a new AWS account?](https://www.youtube.com/watch?v=lIdh92JmWtg)
+
 ### Step 1: Root Account Setup
 **What to do:**
 - Use a company email (not personal)
