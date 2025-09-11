@@ -47,9 +47,3 @@ For questions or clarifications, contact:
 
 ---
 <!-- **Remember:** Today's foundation in multi-account strategy and IAM will enable TESDA's successful digital transformation. -->
-
-### AWS Organizations Tutorial
-[![AWS Organizations Overview](https://img.youtube.com/vi/fxo67UeeN1A/maxresdefault.jpg)](https://www.youtube.com/watch?v=fxo67UeeN1A)
-
-### IAM Best Practices
-**Watch:** [IAM Security Best Practices](https://www.youtube.com/watch?v=YQsK4MtsELU) - Essential security concepts for government agencies
