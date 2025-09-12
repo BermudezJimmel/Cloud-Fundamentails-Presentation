@@ -11,7 +11,7 @@ By the end of this module, you will:
 ## 📖 What is AWS Organizations?
 
 ### Simple Definition
-AWS Organizations is like having a "master control panel" for multiple AWS accounts. Think of it as managing multiple bank accounts from one central dashboard.
+AWS Organizations is like having a "master control panel" for multiple AWS accounts.
 
 ### Why Do We Need Multiple AWS Accounts?
 - **Separation:** Keep production systems separate from testing
