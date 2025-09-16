@@ -22,10 +22,7 @@ This repository contains comprehensive training materials for TESDA participants
 - [Module 5: AWS IAM Identity Center Implementation](./05-identity-center/README.md) (25 min)
 - [Module 6: Hands-On Lab - User/Role Creation & MFA](./06-iam-lab/README.md) (10 min)
 
-#### Hour 3: TESDA Architecture Design (60 min)
-- [Module 7: Security Architecture Principles](./07-security-architecture/README.md) (15 min)
-- [Module 8: TESDA Requirements Analysis](./08-tesda-requirements/README.md) (20 min)
-- [Module 9: Architecture Design Workshop](./09-architecture-workshop/README.md) (25 min)
+#### Hour 3: (Test Assessment 20 Questions)
 
 ### 🛠️ Additional Resources
 - [Implementation Roadmap](./10-implementation/README.md)
