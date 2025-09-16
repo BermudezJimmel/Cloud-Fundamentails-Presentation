@@ -24,11 +24,11 @@ This repository contains comprehensive training materials for TESDA participants
 
 #### Hour 3: (Test Assessment 20 Questions)
 
-### 🛠️ Additional Resources
+<!-- ### 🛠️ Additional Resources
 - [Implementation Roadmap](./10-implementation/README.md)
 - [Security Checklist](./11-security-checklist/README.md)
 - [Cost Management Guide](./12-cost-management/README.md)
-- [Reference Materials](./13-references/README.md)
+- [Reference Materials](./13-references/README.md) -->
 
 ### 🚀 Getting Started
 1. Start with [Module 1: AWS Organizations](./01-aws-organizations/README.md)
